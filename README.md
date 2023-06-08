@@ -1,3 +1,4 @@
 # ntc-git
-
-edward
+- edward
+- Annie
+- Flion
