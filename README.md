@@ -1,4 +1,8 @@
 # ntc-git
-Jason
-
-Flion
+- Jason
+- Flion
+- Luna
+- Alan
+- edward
+- Annie
+- Flion
