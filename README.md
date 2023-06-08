@@ -1,4 +1,6 @@
 # ntc-git
+- Jason
+- Flion
 - Luna
 - Alan
 - edward
