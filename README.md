@@ -1,3 +1,3 @@
 # ntc-git
 
--Luna
+- Luna
