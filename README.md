@@ -1,4 +1,5 @@
 # ntc-git
+- dianaqiu
 - darren
 - Jason
 - Luna
