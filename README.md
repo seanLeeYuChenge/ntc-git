@@ -1,2 +1,9 @@
 # ntc-git
-~~~改讀我檔~~~
+- dianaqiu
+- darren
+- Jason
+- Luna
+- Alan
+- edward
+- Annie
+- Flion
