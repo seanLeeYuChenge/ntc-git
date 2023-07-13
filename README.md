@@ -7,3 +7,4 @@
 - edward
 - Annie
 - Flion
+- sean
